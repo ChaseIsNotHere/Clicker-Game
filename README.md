@@ -1,2 +1,2 @@
-# Clicker-Game
-Practicing JavaScript by creating a clicking game.
+# clicker_game
+Practicing JavaScript by making an incremental clicking game.
